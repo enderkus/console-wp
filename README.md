@@ -21,6 +21,16 @@ A WordPress theme with inspiration from linux consoles for hackers, developers a
 
 [<img src="https://raw.githubusercontent.com/enderkus/console-wp/main/screenshot-hack.png" width="350" title="Screenshot">](https://s4s.dev/consolewphack/)
 
+## Usage
+
+Install as a standard Wordpress theme. You can change the theme style and footer areas with the Wordpress "Customizer".
+
+Code Syntax Block plugin is used for syntax coloring. 
+
+## License
+
+The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
 ## Support
 
 [<img src="https://user-images.githubusercontent.com/1286821/181085373-12eee197-187a-4438-90fe-571ac6d68900.png" alt="Buy me a coffee" width="200" />](https://www.buymeacoffee.com/coderb)
