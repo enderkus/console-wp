@@ -27,6 +27,10 @@ Install as a standard Wordpress theme. You can change the theme style and footer
 
 Code Syntax Block plugin is used for syntax coloring. 
 
+## Contributing
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/enderkus/console-wp/. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
