@@ -3,7 +3,7 @@ A WordPress theme with inspiration from linux consoles for hackers, developers a
 
 ## Support
 
-[<img src="https://user-images.githubusercontent.com/1286821/181085373-12eee197-187a-4438-90fe-571ac6d68900.png" alt="Buy me a coffee" width="200" />](https://www.buymeacoffee.com/coderb)
+[<img src="https://user-images.githubusercontent.com/1286821/181085373-12eee197-187a-4438-90fe-571ac6d68900.png" alt="Buy me a coffee" width="200" />](https://www.buymeacoffee.com/enderk)
 
 <img src="https://raw.githubusercontent.com/enderkus/console-wp/main/screenshot-dark.png" width="550" title="Screenshot">
 
@@ -37,4 +37,4 @@ The theme is available as open source under the terms of the [MIT License](https
 
 ## Support
 
-[<img src="https://user-images.githubusercontent.com/1286821/181085373-12eee197-187a-4438-90fe-571ac6d68900.png" alt="Buy me a coffee" width="200" />](https://www.buymeacoffee.com/coderb)
+[<img src="https://user-images.githubusercontent.com/1286821/181085373-12eee197-187a-4438-90fe-571ac6d68900.png" alt="Buy me a coffee" width="200" />](https://www.buymeacoffee.com/enderk)
